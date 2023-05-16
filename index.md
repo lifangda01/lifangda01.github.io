@@ -16,7 +16,7 @@ My research interest is in computer vision and deep learning, especially for med
 
 ## News
 
-- **[May. 2023]** Looking for a full-time job!
+- **[May. 2023]** Expect to graduate in Fall 2023 -- looking for a full-time job!
 
 {% include_relative _includes/publications.md %}
 
