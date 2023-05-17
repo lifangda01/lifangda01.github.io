@@ -76,6 +76,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://lifangda01.github.io/">A Two-Pathway Framework for Automatic Explosive Detection in Dual-Energy X-Ray CT Baggage Security Imagery</a></div>
     <div class="author"><strong>Fangda Li</strong>, Ankit Manerikar, and Avinash C. Kak</div>
+    <div class="periodical"><em>Internal Report for Contract on X-Ray Based Explosive Detection in Airport Baggage, 2021.</em></div>
   </div>
 </div>
 
