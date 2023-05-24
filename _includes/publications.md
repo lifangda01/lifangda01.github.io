@@ -33,11 +33,11 @@
   </div>
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://engineering.purdue.edu/RVL/Publications/GSAN.draft.pdf">A Laplacian Pyramid Based Generative H&E Stain Augmentation Network</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2305.14301">A Laplacian Pyramid Based Generative H&E Stain Augmentation Network</a></div>
     <div class="author"><strong>Fangda Li</strong>, Zhiqiang Hu, Wen Chen and Avinash Kak</div>
     <div class="periodical"><em>Submitted to IEEE Transactions on Medical Imaging <strong>(TMI)</strong>, 2022.</em></div>
     <div class="links">
-      <a href="https://engineering.purdue.edu/RVL/Publications/GSAN.draft.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2305.14301" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/lifangda01/GSAN-Demo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
