@@ -4,18 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. Candidate in the Robot Vision Lab (RVL) under the supervision of [Prof. Avinash Kak](https://engineering.purdue.edu/kak/). 
-My research interest is in computer vision and deep learning, especially for medical imaging.
+At Purdue University, I am a Ph.D. Candidate in the [Robot Vision Lab (RVL)](https://engineering.purdue.edu/RVL/) led by [Prof. Avinash Kak](https://engineering.purdue.edu/kak/).
+With 9 publications, I am interested in deep learning and computer vision, especially for medical imaging.
 
 [Site](https://lifangda01.github.io/imgsat/) for my pictures.
 
 ## Research Interests
 
-- **Computer Vision:** Medical Imaging, Digital Pathology
+- **Computer Vision:** Medical Imaging, Computational Pathology, CT
 - **Deep Learning:** Generative Models, Image-to-Image Translation
+- **Robotics, AR/VR, Graphics**
 
 ## News
 
+- **[June. 2023]** Paper accepted at MICCAI 2023!
 - **[May. 2023]** Expect to graduate in Fall 2023 -- looking for a full-time job!
 
 {% include_relative _includes/publications.md %}
