@@ -8,13 +8,13 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/miccai2023-teaser.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Preprint</abbr>
+    <abbr class="badge">MICCAI</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2303.06193">Adaptive Supervised PatchNCE Loss for Learning H&E-to-IHC Stain Translation with Inconsistent Groundtruth Image Pairs</a></div>
     <div class="author"><strong>Fangda Li</strong>, Zhiqiang Hu, Wen Chen and Avinash Kak</div>
-    <div class="periodical"><em>Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI)</strong>, 2023. Accepted.</em></div>
+    <div class="periodical"><em>Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI)</strong>, 2023. </em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2303.06193" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/lifangda01/AdaptiveSupervisedPatchNCE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -29,13 +29,13 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/tmi2022-teaser.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Preprint</abbr>
+    <abbr class="badge">TMI</abbr>
   </div>
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2305.14301">A Laplacian Pyramid Based Generative H&E Stain Augmentation Network</a></div>
     <div class="author"><strong>Fangda Li</strong>, Zhiqiang Hu, Wen Chen and Avinash Kak</div>
-    <div class="periodical"><em>Submitted to IEEE Transactions on Medical Imaging <strong>(TMI)</strong>, 2022.</em></div>
+    <div class="periodical"><em>IEEE Transactions on Medical Imaging <strong>(TMI)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2305.14301" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/lifangda01/GSAN-Demo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
