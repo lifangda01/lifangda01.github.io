@@ -19,7 +19,7 @@
       <a href="https://arxiv.org/abs/2303.06193" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/lifangda01/AdaptiveSupervisedPatchNCE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:zDe1KXUxndcJ:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcfxfp4:AGlGAw8AAAAAZFv3Zp6FYEg0oBqrCLs31mftB34&scisig=AGlGAw8AAAAAZFv3Zs7wGYWIzZYpqpu40tbT5ZE&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:zDe1KXUxndcJ:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcfxfp4:AGlGAw8AAAAAZFv3Zp6FYEg0oBqrCLs31mftB34&scisig=AGlGAw8AAAAAZFv3Zs7wGYWIzZYpqpu40tbT5ZE&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
@@ -61,7 +61,7 @@
       <a href="https://engineering.purdue.edu/RVL/Publications/AManerikar_DEBISim_Simulation_Pipeline_2021_JOXST.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/avm-debatr/debisim2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:P9QyaJRAgoMJ:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcf8a-s:AGlGAw8AAAAAZFv6c-t4gu5bWIrsArqLZ9VcXNs&scisig=AGlGAw8AAAAAZFv6c9TwviJwho3k-EXk8N-Oz94&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:P9QyaJRAgoMJ:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcf8a-s:AGlGAw8AAAAAZFv6c-t4gu5bWIrsArqLZ9VcXNs&scisig=AGlGAw8AAAAAZFv6c9TwviJwho3k-EXk8N-Oz94&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
@@ -94,7 +94,7 @@
       <a href="https://arxiv.org/abs/1905.00934" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/avm-debatr/debisim2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:pnekO7u1N00J:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcf9cMY:AGlGAw8AAAAAZFv7aMYDoTa1zPqQS_3RdpWL-Co&scisig=AGlGAw8AAAAAZFv7aNkThf8Ad-vC3TUb_xyfzJ4&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:pnekO7u1N00J:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcf9cMY:AGlGAw8AAAAAZFv7aMYDoTa1zPqQS_3RdpWL-Co&scisig=AGlGAw8AAAAAZFv7aNkThf8Ad-vC3TUb_xyfzJ4&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
@@ -115,7 +115,7 @@
       <a href="https://engineering.purdue.edu/RVL/Publications/Manerikar_A_DECTDecomposition_2020.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/avm-debatr/debisim2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:pnekO7u1N00J:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcf9cMY:AGlGAw8AAAAAZFv7aMYDoTa1zPqQS_3RdpWL-Co&scisig=AGlGAw8AAAAAZFv7aNkThf8Ad-vC3TUb_xyfzJ4&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:pnekO7u1N00J:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcf9cMY:AGlGAw8AAAAAZFv7aMYDoTa1zPqQS_3RdpWL-Co&scisig=AGlGAw8AAAAAZFv7aNkThf8Ad-vC3TUb_xyfzJ4&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
@@ -136,7 +136,7 @@
       <a href="https://ojs.aaai.org/index.php/ICAPS/article/view/13921" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/lifangda01/Middle-Point-Displacement" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:xVz8eEaLYDUJ:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcf4O44:AGlGAw8AAAAAZFv-I469NH3LLnEpDD5FLN8xTTY&scisig=AGlGAw8AAAAAZFv-I425YlpbyF9Su9i-5LgjgVA&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:xVz8eEaLYDUJ:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcf4O44:AGlGAw8AAAAAZFv-I469NH3LLnEpDD5FLN8xTTY&scisig=AGlGAw8AAAAAZFv-I425YlpbyF9Su9i-5LgjgVA&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
@@ -157,7 +157,7 @@
       <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w9/html/Li_A_Novel_Visualization_CVPR_2016_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/lifangda01/TreeViz" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:HDk5mglJEOAJ:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcAGMwQ:AGlGAw8AAAAAZFwAKwTtX6rLjtn4Y8OEEE42NZ8&scisig=AGlGAw8AAAAAZFwAK6Az7FF8CdPvOjxr59wZE-A&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:HDk5mglJEOAJ:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcAGMwQ:AGlGAw8AAAAAZFwAKwTtX6rLjtn4Y8OEEE42NZ8&scisig=AGlGAw8AAAAAZFwAK6Az7FF8CdPvOjxr59wZE-A&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
@@ -178,7 +178,7 @@
       <a href="http://www.tnt.uni-hannover.de/papers/data/1055/isvc2014_baumann.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/avm-debatr/debisim2" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:vL90HcM-KVEJ:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcAHq5Q:AGlGAw8AAAAAZFwBs5Qh9DT-ptSwRjibQeOd9Y8&scisig=AGlGAw8AAAAAZFwBszPq2KDXwS9RZwAIL0lQJ80&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:vL90HcM-KVEJ:scholar.google.com/&output=citation&scisdr=Cm0CLklYEKjzjcAHq5Q:AGlGAw8AAAAAZFwBs5Qh9DT-ptSwRjibQeOd9Y8&scisig=AGlGAw8AAAAAZFwBszPq2KDXwS9RZwAIL0lQJ80&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
