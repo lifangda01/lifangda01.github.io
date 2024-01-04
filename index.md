@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-At Purdue University, I am a Ph.D. Candidate in the [Robot Vision Lab (RVL)](https://engineering.purdue.edu/RVL/) led by [Prof. Avinash Kak](https://engineering.purdue.edu/kak/).
-With 9 publications, I am interested in deep learning and computer vision, especially for medical imaging.
+**Currently Computational Biologist - Image Analysis at [10x Genomics](https://www.10xgenomics.com/)!**
 
-**Incoming Computational Biologist at 10x Genomics!**
+I obtained my PhD in the [Robot Vision Lab (RVL)](https://engineering.purdue.edu/RVL/) led by [Prof. Avinash Kak](https://engineering.purdue.edu/kak/) at [Purdue University](https://www.purdue.edu/) in 2023.
+With 9 publications, I am interested in deep learning and computer vision, especially for medical imaging.
 
 [Site](https://lifangda01.github.io/imgsat/) for my pictures.
 
